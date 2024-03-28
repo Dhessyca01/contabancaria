@@ -104,7 +104,7 @@ function sobre(): void {
 console.log("\n*****************************************************");
 console.log("Projeto Desenvolvido por: Dhessyca Karolainy da Conceição Sousa");
 console.log("Dhessyca Sousa - dhessyca.pessoal@gmail.com");
-console.log("github.com/conteudoGeneration");
+console.log("https://github.com/Dhessyca01/contabancaria/blob/main/Menu.ts");
 console.log("*****************************************************");
 
 }
